@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 
 
 
-![clappingmin's github stats](https://github-readme-stats.vercel.app/api?username=clappingmin&show_icons=true&theme=dark)<br/>
+![clappingmin's github stats](https://github-readme-stats.vercel.app/api?username=clappingmin&show_icons=true&theme=vue)<br/>
 
