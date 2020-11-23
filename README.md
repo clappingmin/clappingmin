@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 
 ![clappingmin's github stats](https://github-readme-stats.vercel.app/api?username=clappingmin&show_icons=true&theme=vue)<br/>
 
+## clappingmin's solved.ac tier
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=clappingmin)](https://solved.ac/clappingmin)<br/>
