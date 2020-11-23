@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clappingmin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![clappingmin's github stats](https://github-readme-stats.vercel.app/api?username=clappingmin&show_icons=true&theme=dark)<br/>
-https://gist.github.com/clappingmin/9842e074b8ee46aef76fd0d493bae0ed
 
