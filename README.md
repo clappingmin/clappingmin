@@ -11,6 +11,12 @@ Here are some ideas to get you started:
 ![clappingmin's github stats](https://github-readme-stats.vercel.app/api?username=clappingmin&theme=flag-india&show_icons=true)<br/>
 
 
+### Career 👀
+|         Type        |       Date       |             Contents            |                  Organization                 |
+|:-------------------:|:----------------:|:-------------------------------:|:---------------------------------------------:|
+|     🎓 Education     |  2016.3 ~ 2021.2 |  Department of Computer Science |              Yeungnam University              |
+| Research activities | 2018.11 ~ 2020.7 | Undergraduate Research Students | Yeungnam Uni. Computing and memory system Lab |
+
 <!--
 ## clappingmin's solved.ac tier
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=clappingmin)](https://solved.ac/clappingmin)<br/>
