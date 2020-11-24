@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 |         Type        |       Date       |             Contents            |                  Organization                 |
 |:-------------------:|:----------------:|:-------------------------------:|:---------------------------------------------:|
 |     🎓 Education     |  2016. 3 ~ 2021. 2 |  Department of Computer Science |              Yeungnam University              |
-| Research activities | 2018. 11 ~ 2020. 7 | Undergraduate Research Students | Yeungnam Uni. Computing and memory system Lab |
+| Research activities | 2018. 11 ~ 2020. 7 | Undergraduate Research Students | Yeungnam Univ. Computing and memory system Lab |
 
 <!--
 ## clappingmin's solved.ac tier
