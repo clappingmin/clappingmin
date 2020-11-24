@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ### Career 👀
 |         Type        |       Date       |             Contents            |                  Organization                 |
 |:-------------------:|:----------------:|:-------------------------------:|:---------------------------------------------:|
-|     🎓 Education     |  2016. 3 ~ 2021. 2 |  Department of Computer Science |              Yeungnam University              |
+|     🎓 Education     |  2016. 3 ~ 2021. 2 |  Department of Computer Engineering |              Yeungnam University              |
 | Research activities | 2018. 11 ~ 2020. 7 | Undergraduate Research Students | Yeungnam Univ. Computing and memory system Lab |
 
 <!--
