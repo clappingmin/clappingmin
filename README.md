@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <!--![clappingmin's github stats](https://github-readme-stats.vercel.app/api?username=clappingmin&theme=default&show_icons=true)<br/>-->
 
 
-###  👀
+### I am  👀
 |         Type        	|          Date          	|              Contents              	|                    Organization                    	|
 |:-------------------:	|:----------------------:	|:----------------------------------:	|:--------------------------------------------------:	|
 |    🎓<br>Education   	| 2016. 3 <br>~ 2021. 2  	| Department of Computer Engineering 	|                 Yeungnam University                	|
