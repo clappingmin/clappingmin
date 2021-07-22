@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 
 - 📘 I graduated from [Yeungnam University](http://www.yu.ac.kr/_korean/main/index.php).
-- 🌱 I’m currently learning Python, Django, Algorithm, Machine learning
+- 🌱 I’m currently learning Python, Django, Algorithm, Kotlin, Android
 
 <!--![clappingmin's github stats](https://github-readme-stats.vercel.app/api?username=clappingmin&theme=default&show_icons=true)<br/>-->
 
