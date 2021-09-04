@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 + 영남대학교 기계IT대학 컴퓨터공학과 졸업 (2016 ~ 2021)
 ---
 ### 🛠  Technical Skills  
-<a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
