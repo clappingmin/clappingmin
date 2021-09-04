@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 ---
 ### 🛠  Technical Skills  
 <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
-  <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=Python&logoColor=white"/></a>
+  <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=Python&logoColor=white"/>
+    <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=Python&logoColor=white"/>
+    
