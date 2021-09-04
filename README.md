@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 ### 학력
 + 영남대학교 기계IT대학 컴퓨터공학과 졸업 (2016 ~ 2021)
 ---
+### 사용 기술  
+https://img.shields.io/badge/-Python-000000?style=flat&logo=Python
 <!-- |         Type        	|          Date          	|              Contents              	|                    Organization                    	|
 |:-------------------:	|:----------------------:	|:----------------------------------:	|:--------------------------------------------------:	|
 |    🎓<br>Education   	| 2016. 3 <br>~ 2021. 2  	| Department of Computer Engineering 	|                 Yeungnam University                	|
