@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 ---
 ### 🛠  Technical Skills  
 <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB??style=plastic&logo=Python&logoColor=white"/> 
-  <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Django-092E20??style=plastic&logo=django&logoColor=white"/>
-    <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Flask-000000??style=plastic&logo=flask&logoColor=white"/>
-     <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Android Studio-3DDC84??style=plastic&logo=androidstudio&logoColor=white"/>
-       <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5??style=plastic&logo=kotlin&logoColor=white"/></a>
+<a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Django-092E20??style=plastic&logo=django&logoColor=white"/>
+<a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Flask-000000??style=plastic&logo=flask&logoColor=white"/>
+<a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Android Studio-3DDC84??style=plastic&logo=androidstudio&logoColor=white"/>
+<a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5??style=plastic&logo=kotlin&logoColor=white"/>
+<a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Swift-FA7343??style=plastic&logo=swift&logoColor=white"/></a>
     
