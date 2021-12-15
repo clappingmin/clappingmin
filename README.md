@@ -16,15 +16,14 @@ Here are some ideas to get you started:
 | Research activities 	| 2018. 11 <br>~ 2020. 7 	|   Undergraduate Research Students  	| Yeungnam Univ. <br>Computing and memory system Lab 	| -->
 
 
-### 학력
-+ 영남대학교 기계IT대학 컴퓨터공학과 졸업 (2016 ~ 2021)
----
-### 🛠  Technical Skills  
-<a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB??style=plastic&logo=Python&logoColor=white"/> 
-<a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Django-092E20??style=plastic&logo=django&logoColor=white"/>
-<a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Flask-000000??style=plastic&logo=flask&logoColor=white"/>
-<a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5??style=plastic&logo=kotlin&logoColor=white"/>
-<a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Android Studio-3DDC84??style=plastic&logo=androidstudio&logoColor=white"/>
-<a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Swift-FA7343??style=plastic&logo=swift&logoColor=white"/></a>
-<a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB??style=plastic&logo=xcode&logoColor=white"/>
+### 🛠  Skils  
+#### web  
+- <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB??style=plastic&logo=Python&logoColor=white"/> 
+- <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Django-092E20??style=plastic&logo=django&logoColor=white"/>
+- <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Flask-000000??style=plastic&logo=flask&logoColor=white"/>
+#### mobile  
+- <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5??style=plastic&logo=kotlin&logoColor=white"/>
+- <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Android Studio-3DDC84??style=plastic&logo=androidstudio&logoColor=white"/>
+- <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Swift-FA7343??style=plastic&logo=swift&logoColor=white"/></a>
+- <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB??style=plastic&logo=xcode&logoColor=white"/>
     
