@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 | Research activities 	| 2018. 11 <br>~ 2020. 7 	|   Undergraduate Research Students  	| Yeungnam Univ. <br>Computing and memory system Lab 	| -->
 
 
-### 🛠  Skils  
----   
 #### web  
 - <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB??style=plastic&logo=Python&logoColor=white"/> 
 - <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Django-092E20??style=plastic&logo=django&logoColor=white"/>
