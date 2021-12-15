@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### 🛠  Skils  
-***  
+---   
 #### web  
 - <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB??style=plastic&logo=Python&logoColor=white"/> 
 - <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Django-092E20??style=plastic&logo=django&logoColor=white"/>
