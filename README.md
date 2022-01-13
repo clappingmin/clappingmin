@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning Python, Django, Algorithm, Kotlin, Android -->
 
  
-| :--- | :---: | ---: |
-| 내용 | 내용 | 내용 |
-| 내용 | 내용 | 내용 |
+| :--- | :---: | ---: |  
+| 내용 | 내용 | 내용 |  
+| 내용 | 내용 | 내용 |  
 
 
 ![Clappingmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=clappingmin&show_icons=true&theme=swift)
