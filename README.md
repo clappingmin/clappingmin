@@ -3,6 +3,7 @@
 <!-- - 📘 I graduated from [Yeungnam University](http://www.yu.ac.kr/_korean/main/index.php).
 - 🌱 I’m currently learning Python, Django, Algorithm, Kotlin, Android -->
 ![Clappingmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=clappingmin&show_icons=true&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clappingmin&layout=compact&theme=swift)
 
 <div align=center>
     <h3>🛠Tech</h3> 
