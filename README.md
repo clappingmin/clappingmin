@@ -5,8 +5,8 @@
 
  
 ![Clappingmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=clappingmin&show_icons=true&theme=swift)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clappingmin&layout=compact&theme=swift)
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=clappingmin)](https://solved.ac/clappingmin)  
+||![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clappingmin&layout=compact&theme=swift)||  
+||[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=clappingmin)](https://solved.ac/clappingmin)||   
 
     
 #### 🛠Tech
