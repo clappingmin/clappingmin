@@ -2,6 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=%20SuminPark%20%20&height=200&fontSize=100) 
 <!-- - 📘 I graduated from [Yeungnam University](http://www.yu.ac.kr/_korean/main/index.php).
 - 🌱 I’m currently learning Python, Django, Algorithm, Kotlin, Android -->
+![Clappingmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=clappingmin&show_icons=true&theme=swift)
 
 <div align=center>
     <h3>🛠Tech</h3> 
