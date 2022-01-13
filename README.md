@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ### Tech 
 <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB??style=flat-square&logo=Python&logoColor=white"/> 
 <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Django-092E20??style=flat-square&logo=django&logoColor=white"/>
-<a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Flask-000000??style=flat-square&logo=flask&logoColor=white"/>    
-<a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Flask-000000??style=flat-square&logo=flask&logoColor=white"/>    
+<a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Flask-000000??style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
