@@ -1,10 +1,4 @@
 ## Sumin Park
-<!--
-**clappingmin/clappingmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<!-- - 🔭 I’m currently working on my project [Muffin's law](https://github.com/dmswl0311/term_project) -->
-
 
 <!-- - 📘 I graduated from [Yeungnam University](http://www.yu.ac.kr/_korean/main/index.php).
 - 🌱 I’m currently learning Python, Django, Algorithm, Kotlin, Android -->
