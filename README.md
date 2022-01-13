@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 |    🎓<br>Education   	| 2016. 3 <br>~ 2021. 2  	| Department of Computer Engineering 	|                 Yeungnam University                	|
 | Research activities 	| 2018. 11 <br>~ 2020. 7 	|   Undergraduate Research Students  	| Yeungnam Univ. <br>Computing and memory system Lab 	| -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JisuPark%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Sumin Park%20%20&height=200&fontSize=100)
 
 
 #### web  
