@@ -18,13 +18,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=%20SuminPark%20%20&height=200&fontSize=100)
 
 
-#### web  
+### Tech 
 - <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB??style=plastic&logo=Python&logoColor=white"/> 
 - <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Django-092E20??style=plastic&logo=django&logoColor=white"/>
 - <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Flask-000000??style=plastic&logo=flask&logoColor=white"/>
-#### mobile  
-- <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5??style=plastic&logo=kotlin&logoColor=white"/>
-- <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Android Studio-3DDC84??style=plastic&logo=androidstudio&logoColor=white"/>
-- <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Swift-FA7343??style=plastic&logo=swift&logoColor=white"/></a>
-- <a href="https://github.com/clappingmin" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB??style=plastic&logo=xcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/{icons}?style={style}&logo={logo_name}&logoColor=white"/></a>&nbsp 
     
