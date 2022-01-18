@@ -2,9 +2,15 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=%20SuminPark%20%20&height=200&fontSize=100)  -->
 <!-- - 📘 I graduated from [Yeungnam University](http://www.yu.ac.kr/_korean/main/index.php).
 - 🌱 I’m currently learning Python, Django, Algorithm, Kotlin, Android -->
+
+<!-- solved.ac -->
+<!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=clappingmin)](https://solved.ac/clappingmin)  -->
+
+<!-- 히트수, 블로그 뱃지 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fclappingmin&count_bg=%2339A0D1&title_bg=%2398999C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <img src="https://img.shields.io/badge/-Tech%20Blog-%23000">  
-![Clappingmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=clappingmin&show_icons=true&theme=swift)  
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clappingmin&layout=compact&theme=swift) | [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=clappingmin)](https://solved.ac/clappingmin) |
+
+<!-- 깃 상태 표시 -->
+| ![Clappingmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=clappingmin&show_icons=true&theme=swift) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clappingmin&layout=compact&theme=swift) |
 |:--------|:--------:|
 
     
