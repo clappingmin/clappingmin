@@ -7,7 +7,9 @@
 <!-- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=clappingmin)](https://solved.ac/clappingmin)  -->
 
 <!-- 히트수, 블로그 뱃지 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fclappingmin&count_bg=%2339A0D1&title_bg=%2398999C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <img src="https://img.shields.io/badge/-Tech%20Blog-%23000">  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fclappingmin&count_bg=%2339A0D1&title_bg=%2398999C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <img src="https://img.shields.io/badge/-Tech%20Blog-%23000"> 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=clappingmin)](https://solved.ac/clappingmin). 
 
     
 ### 🛠Tech
