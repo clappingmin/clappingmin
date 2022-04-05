@@ -13,7 +13,7 @@
 
 ### Experience
 
-- 🎓 Yeungnam University , Computer Science and Engineering (2016.03~ )
+- 🎓 Yeungnam University , Computer Science and Engineering (2016.03~2021.02)
 - 🔎 Memory System Undergraduate researcher (2018.11~2021.02)
 - 🔥 hanghae99 5th, Web Frontend (2022.01~2022.04)
 
