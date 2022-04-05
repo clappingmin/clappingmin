@@ -20,6 +20,9 @@
 - 🥇 I majored in Computer Science and Engineering
 - 🚅 My hometown is Daegu in Korea
 
+<div align="center">
+![Clappingmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=clappingmin&show_icons=true&theme=graywhite&hide_border=true)
+
 ### Experience
 
 - 🎓 Yeungnam University , Computer Science and Engineering (2016.03~ )
