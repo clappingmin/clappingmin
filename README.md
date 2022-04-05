@@ -29,8 +29,8 @@
   
 ### Who Am I
 
-<!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
- -->
+<img align='right' ![Clappingmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=clappingmin&show_icons=true&theme=graywhite&hide_border=true)>
+
 - 🌱 I’m currently learning `Frontend`, `TypeScript`
 - 🥇 I majored in Computer Science and Engineering
 - 🚅 My hometown is Daegu in Korea
