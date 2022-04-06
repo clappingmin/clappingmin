@@ -11,7 +11,7 @@
 
 ### Who Am I
 
-- 🌱 I’m currently learning `Frontend`, `JavaScript`
+- 🌱 I’m currently learning `React`, `JavaScript`
 - 🥇 I majored in Computer Science and Engineering
 
 
