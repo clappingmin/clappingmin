@@ -7,7 +7,6 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=clappingmin)](https://solved.ac/clappingmin)
 <a href="https://greenteacreamfrappuccino.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20Blog-%23000"></a>  
 
-<img algin="right" src="https://user-images.githubusercontent.com/50855726/162026387-91b7ed47-b498-42ed-8e6a-e32401f523ac.png"/> 
 
 ### Who Am I
 
@@ -16,6 +15,8 @@
 
 
 ### Experience
+<img algin="right" src="https://user-images.githubusercontent.com/50855726/162026387-91b7ed47-b498-42ed-8e6a-e32401f523ac.png"/> 
+
 
 - 🎓 Yeungnam University , Computer Science and Engineering (2016.03~2021.02)
 - 🔎 Memory System Undergraduate Researcher (2018.11~2021.02)
