@@ -15,8 +15,6 @@
 
 
 ### Experience
-<img algin="center" src="https://user-images.githubusercontent.com/50855726/162026387-91b7ed47-b498-42ed-8e6a-e32401f523ac.png"/> 
-
 
 - 🎓 Yeungnam University , Computer Science and Engineering (2016.03~2021.02)
 - 🔎 Memory System Undergraduate Researcher (2018.11~2021.02)
