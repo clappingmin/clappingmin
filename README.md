@@ -7,8 +7,8 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=clappingmin)](https://solved.ac/clappingmin)
 <a href="https://greenteacreamfrappuccino.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20Blog-%23000"></a>  
 
-<!-- <img align="right" src="https://media0.giphy.com/media/k5r0jVNdUC4w9calJK/giphy.gif" />
- -->
+![제목을-입력해주세요_-001](https://user-images.githubusercontent.com/50855726/162025750-d3d35d55-1ddd-4244-af65-bfcf14eb737a.png)
+
 ### Who Am I
 
 - 🌱 I’m currently learning `Frontend`, `TypeScript`
