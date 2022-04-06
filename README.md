@@ -17,6 +17,8 @@
 - 🔎 Memory System Undergraduate Researcher (2018.11~2021.02)
 - 🔥 Hanghae99 5th, Web Frontend (2022.01~2022.04)
 
+<iframe align="right" src="https://giphy.com/embed/1m2NzgMlMaWFq" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pokemon-team-rocket-s02e07-1m2NzgMlMaWFq">via GIPHY</a></p>
+
 
 ### Tech
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>  <img src="https://img.shields.io/badge/styledComponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>   
