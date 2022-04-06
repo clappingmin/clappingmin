@@ -7,7 +7,7 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=clappingmin)](https://solved.ac/clappingmin)
 <a href="https://greenteacreamfrappuccino.tistory.com/"><img src="https://img.shields.io/badge/-Tech%20Blog-%23000"></a>  
 
-<img align="right" src="https://media1.giphy.com/media/ule4vhcY1xEKQ/giphy.gif?cid=ecf05e47oi8ugediyh304azu3mea9k0f56f90as9jenv4npb&rid=giphy.gif&ct=g" />
+<img align="right" src="https://media1.giphy.com/media/heIX5HfWgEYlW/giphy.gif?cid=ecf05e473qc2amya19nf32ig50dpk238p9anwtbdb6uw2zqt&rid=giphy.gif&ct=g" />
 
 ### Who Am I
 
