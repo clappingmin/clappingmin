@@ -17,7 +17,7 @@
 - 🔎 Memory System Undergraduate Researcher (2018.11~2021.02)
 - 🔥 Hanghae99 5th, Web Frontend (2022.01~2022.04)
 
-<iframe align="right" src="https://giphy.com/embed/1m2NzgMlMaWFq" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pokemon-team-rocket-s02e07-1m2NzgMlMaWFq">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/1m2NzgMlMaWFq" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pokemon-team-rocket-s02e07-1m2NzgMlMaWFq">via GIPHY</a></p>
 
 
 ### Tech
