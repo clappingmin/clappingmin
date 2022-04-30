@@ -12,7 +12,7 @@
 
 ### Who Am I
 
-- 🌱 I’m currently learning `React`, `JavaScript`
+- 🌱 I’m currently learning `Angular`, `TypeScript`
 - 🥇 I majored in Computer Science and Engineering
 
 
