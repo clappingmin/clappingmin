@@ -7,8 +7,8 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=clappingmin)](https://solved.ac/clappingmin)
 <a href="https://greenteacreamfrappuccino.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Jeonil_Dev_log"></a>  
   
-
-<img align="right" src="https://media0.giphy.com/media/11NVDFdtTMAqIM/giphy.gif?cid=ecf05e47ednx7kvjvmuge2zie47pwxz2kyarfhyf7nkh40at&rid=giphy.gif&ct=g" />
+<!-- 
+<img align="right" src="https://media0.giphy.com/media/11NVDFdtTMAqIM/giphy.gif?cid=ecf05e47ednx7kvjvmuge2zie47pwxz2kyarfhyf7nkh40at&rid=giphy.gif&ct=g" /> -->
 
 ### Who Am I
 
