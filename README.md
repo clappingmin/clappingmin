@@ -1,4 +1,4 @@
-# clappingmin
+# 👋 Hi, I’m Sumin Park
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fclappingmin&count_bg=%2339A0D1&title_bg=%2398999C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 <!-- [![Solved.ac
